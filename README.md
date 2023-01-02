@@ -34,7 +34,6 @@ I love to learn and take on new challenges 🧡, I'm passionate about the world 
 ## Learning 📚
 
 <div align="center">
-  <br>
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-41c52d?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35px">
   <img alt="Next.js" src="https://img.shields.io/badge/next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black" height="35px">
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="35px">
@@ -48,7 +47,6 @@ I love to learn and take on new challenges 🧡, I'm passionate about the world 
 ## Contact me ✌🏽
 
 <div align="center">
-  <br>
   <a href="https://www.instagram.com/miiguel.boniilla"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35px"> </a>
   <a href="https://www.twitter.com/MiguelBonilla09"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="35px"> </a>
   <a href="https://www.linkedin.com/in/miguelaboni"> <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35px"> </a>
