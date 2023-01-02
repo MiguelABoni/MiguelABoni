@@ -47,7 +47,7 @@ I love to learn and take on new challenges 🧡, I'm passionate about the world 
 ## Contact me ✌🏽
 
 <div align="center">
-  <a href="https://www.instagram.com/miiguel.boniilla"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35px"> </a>
-  <a href="https://www.twitter.com/MiguelBonilla09"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="35px"> </a>
-  <a href="https://www.linkedin.com/in/miguelaboni"> <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35px"> </a>
+  <a href="https://www.instagram.com/miiguel.boniilla" target="_blank"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35px"> </a>
+  <a href="https://www.twitter.com/MiguelBonilla09" target="_blank"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="35px"> </a>
+  <a href="https://www.linkedin.com/in/miguelaboni" target="_blank"> <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35px"> </a>
 </div>
