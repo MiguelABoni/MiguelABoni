@@ -35,9 +35,9 @@ I love to learn and take on new challenges 🧡, I'm passionate about the world 
 
 <div align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-41c52d?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35px">
-  <img alt="Next.js" src="https://img.shields.io/badge/next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black" height="35px">
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="35px">
   <img alt="Passport" src="https://shields.io/badge/passport-lightgreen?logo=passport&style=for-the-badge" height="35px">
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black" height="35px">
   <br>
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="35px">
   <img alt="Expo" src="https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=#D04A37" height="35px">
